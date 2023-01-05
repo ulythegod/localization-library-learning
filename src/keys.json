@@ -1,0 +1,17 @@
+{
+    "ru": {
+        "app.title": "История звонков",
+        "call-history.title": {
+            "many": "{count} звонков",
+            "few": "{count} звонка",
+            "one": "{count} звонок"
+        }
+    },
+    "en": {
+        "app.title": "Call history",
+        "call-history.title": {
+            "other": "{count} calls",
+            "one": "{count} call"
+        }
+    }
+}
